@@ -436,7 +436,7 @@ goal: "Master DevOps practices and build reliable systems"
   <a href="https://linkedin.com/in/rkumar98" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/r_kumar_13" target="_blank">
+  <a href="https://twitter.com/The_ViRkumar" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X (Twitter)" />
   </a>
   <a href="https://instagram.com/the.virkumar" target="_blank">
